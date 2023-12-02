@@ -1,4 +1,4 @@
-# The100DaysOfCode
+# DAY-7/100 The100DaysOfCode
 <br>
 "100 Days of Code – A Journey to Master the Art of Programming in Daily Hourly Strides."
 <br>
