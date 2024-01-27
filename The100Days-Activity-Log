@@ -485,3 +485,32 @@ Today i explored few design ideas .
 I added many changes to my e-commerce project.added popular section ,exclusive and newsletter section.
 #React.js
 #Happycoding
+
+# 100 Days of Code Log
+
+## Day 1: January 28, 2024
+
+**Today's Progress:**
+- Added a new section for showcasing new arrivals on the homepage.
+- Styled the product cards in the New Collections section.
+
+**Files Modified:**
+- [HomePage.js](link-to-file)
+- [NewCollections.css](link-to-file)
+
+**Thoughts:**
+Excited to introduce a visually appealing way for customers to discover our latest products.
+
+## Day 2: January 29, 2024
+
+**Today's Progress:**
+- Implemented a responsive design for the shopping cart page.
+- Fixed alignment issues on the product details page.
+
+**Files Modified:**
+- [ShoppingCartPage.js](link-to-file)
+- [ProductDetails.css](link-to-file)
+
+**Thoughts:**
+Responsive design is crucial for providing a seamless user experience across devices. Glad to resolve the alignment issues for a polished look.
+
